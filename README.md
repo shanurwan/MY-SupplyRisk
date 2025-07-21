@@ -68,9 +68,13 @@ my-scfi/
 
 ## Current Phase
 [Done] Project initialized
+
 [Ongoing] Domain research & metric design
+
 [In Progress] Data collection & pipeline setup
+
 [Upcoming] Fragility scoring and dashboard
+
 [Upcoming] Public release & whitepaper
 
 
