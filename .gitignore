@@ -1,0 +1,80 @@
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs and local output
+*.log
+*.out
+*.bak
+
+# Environment/config files
+.env
+*.env
+config/params.yaml
+config/*.secret.yaml
+
+# Data files
+data/raw/
+data/processed/
+data/interim/
+data/temp/
+
+# DB and cache
+*.sqlite3
+*.db
+*.pkl
+*.parquet
+*.feather
+*.h5
+
+# Cloud & credentials
+.aws/
+.gcloud/
+credentials.json
+secrets.json
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+
+# Prefect
+.prefect/
+
+# Streamlit
+.streamlit/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Notebooks outputs 
+*.nbconvert.ipynb
+
+# Word Documents
+*.docx
+
+# Linux file clutter
+*.~*
+
+# Reports 
+reports/*.html
+reports/*.pdf
